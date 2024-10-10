@@ -61,14 +61,14 @@
             <mxPoint x="1376.38" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qEnbLrft56MKnZWWUl7D-24" value="维度匹配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="70" height="30" as="geometry" />
+        <mxCell id="qEnbLrft56MKnZWWUl7D-24" value="维度匹配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qEnbLrft56MKnZWWUl7D-25" value="相似度优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="710.4" y="640" width="83.07" height="30" as="geometry" />
+        <mxCell id="qEnbLrft56MKnZWWUl7D-25" value="相似度优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="687" y="640" width="129.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qEnbLrft56MKnZWWUl7D-26" value="最佳匹配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1206" y="640" width="70" height="30" as="geometry" />
+        <mxCell id="qEnbLrft56MKnZWWUl7D-26" value="最佳匹配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1184" y="640" width="114" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
