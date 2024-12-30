@@ -115,6 +115,9 @@
         <mxCell id="lIfofjHepmdKD4y3OH2U-51" value="界面定制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="816.5" y="392.5" width="80" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="lIfofjHepmdKD4y3OH2U-52" value="通知设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="816.5" y="452.5" width="80" height="32.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
