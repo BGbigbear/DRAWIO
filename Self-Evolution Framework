@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="KoCuAHPQeN-sIRVYUa7V">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="05xnUI5e9QO9UU5_UvN--1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="730" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--2" value="&lt;b&gt;Task&lt;/b&gt;&lt;div&gt;&lt;b&gt;Evolution&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--3" value="&lt;b&gt;Solution&lt;/b&gt;&lt;div&gt;&lt;b&gt;Evolution&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--4" value="&lt;b&gt;Feedback&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="635" y="130" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--7" value="反馈结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontStyle=1" vertex="1" parent="05xnUI5e9QO9UU5_UvN--13">
+          <mxGeometry x="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--11" value="$$F^t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="05xnUI5e9QO9UU5_UvN--13">
+          <mxGeometry y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414" y="128.13" width="61" height="56.870000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--6" value="&lt;b&gt;模型&lt;br&gt;生成SQL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="05xnUI5e9QO9UU5_UvN--14">
+          <mxGeometry width="60" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--10" value="$$y^t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="05xnUI5e9QO9UU5_UvN--14">
+          <mxGeometry x="1" y="26.870000000000005" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="187" y="130" width="60" height="58.25" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--5" value="&lt;b&gt;数据库&lt;br&gt;查询问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="05xnUI5e9QO9UU5_UvN--15">
+          <mxGeometry x="3" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--9" value="$$T^t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="05xnUI5e9QO9UU5_UvN--15">
+          <mxGeometry y="28.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="05xnUI5e9QO9UU5_UvN--17" value="$$T^t,y^t,F^t$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
