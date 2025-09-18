@@ -198,7 +198,7 @@
         <mxCell id="lS4BnxqyHcmV3ClDA6eu-25" value="Data Generation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="305" y="510" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lS4BnxqyHcmV3ClDA6eu-27" value="Target" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;verticalAlign=top;fontSize=14;fontStyle=1;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+        <mxCell id="lS4BnxqyHcmV3ClDA6eu-27" value="Target" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;verticalAlign=top;fontSize=14;fontStyle=1;strokeColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="670" width="520" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lS4BnxqyHcmV3ClDA6eu-28" value="$$\epsilon=(A,D)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
