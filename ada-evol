@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="JFmdmrpD_9Y1X6A61qkn">
-    <mxGraphModel dx="1501" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1240" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,28 +587,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-357" connectable="0" parent="1" style="group;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="71" width="71" x="1033" y="610" as="geometry" />
+          <mxGeometry height="66" width="66" x="1024" y="610" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-353" parent="5KQTX5aWOiVS30HXnbFh-357" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#a7b9d2, #ededed);" value="" vertex="1">
-          <mxGeometry height="49.63106796116505" width="49.63106796116505" x="10.684466019417476" y="10.339805825242719" as="geometry" />
+          <mxGeometry height="46.1359223300971" width="46.1359223300971" x="9.932038834951456" y="9.611650485436893" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-349" parent="5KQTX5aWOiVS30HXnbFh-357" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Light_Vol_1-2940/brain-light-600.svg" value="" vertex="1">
-          <mxGeometry height="28.606796116504857" width="28.606796116504857" x="21.196601941747574" y="21.196601941747574" as="geometry" />
+          <mxGeometry height="26.592233009708746" width="26.592233009708746" x="19.703883495145636" y="19.703883495145636" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-351" parent="5KQTX5aWOiVS30HXnbFh-357" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=light-dark(#1A1A1A,#B2B3B4);aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" value="" vertex="1">
-          <mxGeometry height="71" width="71" as="geometry" />
+          <mxGeometry height="66" width="66" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-359" connectable="0" parent="1" style="group;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="72" width="72" x="1184" y="610.5" as="geometry" />
+          <mxGeometry height="66" width="66" x="1195" y="610.5" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-354" parent="5KQTX5aWOiVS30HXnbFh-359" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#ddb08e, #ededed);" value="" vertex="1">
-          <mxGeometry height="50.33009708737864" width="50.33009708737864" x="10.83495145631068" y="10.485436893203884" as="geometry" />
+          <mxGeometry height="46.1359223300971" width="46.1359223300971" x="9.932038834951456" y="9.611650485436893" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-355" parent="5KQTX5aWOiVS30HXnbFh-359" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=light-dark(#1A1A1A,#B2B3B4);aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" value="" vertex="1">
-          <mxGeometry height="71.01369863013699" width="71.01369863013699" as="geometry" />
+          <mxGeometry height="65.0958904109589" width="65.0958904109589" as="geometry" />
         </mxCell>
         <mxCell id="5KQTX5aWOiVS30HXnbFh-356" parent="5KQTX5aWOiVS30HXnbFh-359" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Light_Vol_1-2940/brain-light-600.svg" value="" vertex="1">
-          <mxGeometry height="29.009708737864077" width="29.009708737864077" x="21.49514563106796" y="21.145631067961165" as="geometry" />
+          <mxGeometry height="26.592233009708746" width="26.592233009708746" x="19.703883495145636" y="19.38349514563107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
