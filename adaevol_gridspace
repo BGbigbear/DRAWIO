@@ -257,10 +257,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;align=center;fontSize=14;verticalAlign=top;fontStyle=1" value="Legend" vertex="1">
-          <mxGeometry height="163" width="109" x="850" y="1030" as="geometry" />
+          <mxGeometry height="243" width="109" x="850" y="950" as="geometry" />
         </mxCell>
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;span&gt;\(\varsigma_1 = \text{Plain} \\ \varsigma_2 = \text{Casual} \\&amp;nbsp; \varsigma_3 = \text{Directive} \\ \varsigma_4 = \text{Inquiry} \\ \varsigma_5 = \text{Detailed} \\ \varsigma_6 = \text{Brief} \\&amp;nbsp;\varsigma_7 =&amp;nbsp;&amp;nbsp;\text{Underspec.} \\ \varsigma_8 = \text{Figurative}\)&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="852" y="1108" as="geometry" />
+        </mxCell>
+        <mxCell id="-TEmA6-EkIR0HOhPoFNH-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=13;" value="\(d_1 = \text{Basic} \\ d_2 = \text{Standard} \\ d_3 = \text{Advanced} \\ d_4 = \text{Expert}\)" vertex="1">
+          <mxGeometry height="30" width="110" x="850" y="999.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
