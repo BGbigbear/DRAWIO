@@ -136,7 +136,7 @@
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="\(\mathbf{a_{3,2}}\)" vertex="1">
           <mxGeometry height="39" width="37" x="637" y="1023" as="geometry" />
         </mxCell>
-        <mxCell id="sLhpTcQYWCIV1bjBrjr_-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="\(\mathbf{a_{4,2}}\)" vertex="1">
+        <mxCell id="sLhpTcQYWCIV1bjBrjr_-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=light-dark(#f7dbcf, #ededed);fontColor=light-dark(#c35836, #ededed);" value="\(\mathbf{a_{4,2}}\)" vertex="1">
           <mxGeometry height="39" width="37" x="637" y="984" as="geometry" />
         </mxCell>
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="\(\mathbf{a_{5,3}}\)" vertex="1">
@@ -290,6 +290,9 @@
             <mxPoint x="560" y="1000" as="sourcePoint" />
             <mxPoint x="637.98" y="1000.01" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-TEmA6-EkIR0HOhPoFNH-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dui" vertex="1">
+          <mxGeometry height="30" width="60" x="910" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
