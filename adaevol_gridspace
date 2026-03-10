@@ -291,8 +291,8 @@
             <mxPoint x="637.98" y="1000.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TEmA6-EkIR0HOhPoFNH-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="dui" vertex="1">
-          <mxGeometry height="30" width="60" x="910" y="780" as="geometry" />
+        <mxCell id="-TEmA6-EkIR0HOhPoFNH-11" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=34.2;dy=56;boundedLbl=1;" value="" vertex="1">
+          <mxGeometry height="110" width="170" x="910" y="733" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
