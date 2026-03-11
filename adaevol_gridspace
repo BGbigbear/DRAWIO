@@ -13,12 +13,6 @@
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="分层正交网格&lt;br&gt;&lt;div&gt;(Stratified Orthogonal Grid)&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="240" x="550" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="sLhpTcQYWCIV1bjBrjr_-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="803" y="232" as="sourcePoint" />
-            <mxPoint x="964" y="231" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sLhpTcQYWCIV1bjBrjr_-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.11,0.02],[1,0.14],[1,0.72],[0.21,0.89],[0,0.48]];polyline=0;polyCurves=[[],[],[],[],[]];gradientColor=none;strokeColor=light-dark(#9fa4ae, #ededed);fillColor=light-dark(#d9dee4, #ededed);strokeWidth=1.5;" value="" vertex="1">
           <mxGeometry height="327" width="190.89999999999998" x="69.55" y="820" as="geometry" />
         </mxCell>
