@@ -291,8 +291,8 @@
             <mxPoint x="637.98" y="1000.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TEmA6-EkIR0HOhPoFNH-11" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=34.2;dy=56;boundedLbl=1;" value="" vertex="1">
-          <mxGeometry height="110" width="170" x="910" y="733" as="geometry" />
+        <mxCell id="-TEmA6-EkIR0HOhPoFNH-13" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=60;position=0.47;base=23;position2=1;rounded=1;direction=south;arcSize=18;fontSize=13;" value="&lt;b&gt;Mapped cell&lt;/b&gt;&lt;div&gt;\(a = ( \varsigma_4, d_2)\)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64" width="164" x="674" y="919.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
