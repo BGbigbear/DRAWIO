@@ -424,7 +424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontSize=16;" value="4. 模型更新" vertex="1">
-          <mxGeometry height="60" width="120" x="251" y="1341.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="239.5" y="1341.5" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" value="1. 候选获取" vertex="1">
           <mxGeometry height="30" width="180" x="304.5" y="1080" as="geometry" />
@@ -458,13 +458,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fBX8MCR7s2kqRqFNE24m-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="$$\epsilon^1$$" vertex="1">
+        <mxCell id="fBX8MCR7s2kqRqFNE24m-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="1轮" vertex="1">
           <mxGeometry height="40" width="40" x="50.5" y="1262" as="geometry" />
         </mxCell>
-        <mxCell id="fBX8MCR7s2kqRqFNE24m-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="$$\epsilon^t$$" vertex="1">
+        <mxCell id="fBX8MCR7s2kqRqFNE24m-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="n-1轮" vertex="1">
           <mxGeometry height="40" width="40" x="149.5" y="1262" as="geometry" />
         </mxCell>
-        <mxCell id="fBX8MCR7s2kqRqFNE24m-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="$$\epsilon^{t+1}$$" vertex="1">
+        <mxCell id="fBX8MCR7s2kqRqFNE24m-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="n轮" vertex="1">
           <mxGeometry height="40" width="40" x="199.5" y="1262" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#3B3B3B;" value="..." vertex="1">
@@ -525,7 +525,7 @@
           <mxGeometry height="60" width="120" x="428.6" y="1341.5" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;fontStyle=1;align=center;" value="模型测试结果" vertex="1">
-          <mxGeometry height="40" width="154.5" x="29.5" y="1351.5" as="geometry" />
+          <mxGeometry height="40" width="154" x="30" y="1351.5" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;fontStyle=1;align=center;" value="评估结果" vertex="1">
           <mxGeometry height="40" width="75" x="612.5" y="1351.5" as="geometry" />
