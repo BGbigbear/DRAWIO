@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="Page-1" id="KoCuAHPQeN-sIRVYUa7V">
-    <mxGraphModel dx="1213" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="950" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,7 +427,7 @@
           <mxGeometry height="60" width="120" x="239.5" y="1341.5" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" value="1. 候选获取" vertex="1">
-          <mxGeometry height="30" width="180" x="304.5" y="1080" as="geometry" />
+          <mxGeometry height="30" width="180" x="284.75" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.154;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;">
           <mxGeometry relative="1" as="geometry">
