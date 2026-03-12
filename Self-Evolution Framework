@@ -491,12 +491,6 @@
         <mxCell id="fBX8MCR7s2kqRqFNE24m-41" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE0Ny4yNDA2MjY4MTE5ODEyIiB3aWR0aD0iMTM0LjEzNzUxMTI1MzM1NjkzIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjE2OC42MDgwMDE3MDg5ODQzOCAxMzUuMDM5OTkzMjg2MTMyOCA2ODYuNzg0MDU3NjE3MTg3NSA3NTMuODcyMDA5Mjc3MzQzOCIgY2xhc3M9Imljb24iPjxwYXRoIGZpbGw9IiM0MkI0RkEiIGQ9Ik03NDIuNzIgODg4LjkxMkgyODEuMjhhMTEyLjY3MiAxMTIuNjcyIDAgMCAxLTExMi42NzItMTEyLjY1NlYyNDcuNzI4YTExMi42NzIgMTEyLjY3MiAwIDAgMSAxMTIuNjU2LTExMi42NzJoMzk5LjkwNEw4NTUuMjY0IDMwNy4xMnY0NjkuMTJhMTEyLjY3MiAxMTIuNjcyIDAgMCAxLTExMi41MjggMTEyLjY3MnoiLz48cGF0aCBmaWxsPSIjOTJEQkZGIiBkPSJNNjgxLjI5NiAxMzUuMDU2djEzNy40NTZhMzggMzggMCAwIDAgMzggMzhoMTM2LjA5NnYtMy4zOTJsLTE3NC4wOC0xNzIuMDh6Ii8+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTMwNy44NTYgNzQyLjc2OGMxMy42IDEzLjE4NCAzNS4yIDEzLjE4NCA0OC43ODQgMGwxMzUuNjY0LTEzNC4zMzZhMzguNTYgMzguNTYgMCAwIDAgMTAuNjQtMjYuNTkyIDMwLjYwOCAzMC42MDggMCAwIDAtOC44NjQtMjUuNzEyTDM1OC40IDQxOS41NjhhMzUuMDI0IDM1LjAyNCAwIDAgMC00OC43NjggMCAzNi4wMzggMzYuMDM4IDAgMCAwLTkuNzYgMjUuMjggMzMuMjY0IDMzLjI2NCAwIDAgMCA5Ljc2IDI0LjM4NGwxMTAuODQ4IDExMS4yOEwzMDcuODU2IDY5My4xMmEzMy4yNjQgMzMuMjY0IDAgMCAwLTkuNzQ0IDI0LjM4NCAzNS45NjcgMzUuOTY3IDAgMCAwIDkuNzYgMjUuMjh6IG0yMjkuMjMyIDI3LjUwNGgxMDYuODQ4YTM1LjQ3MiAzNS40NzIgMCAwIDAgMC03MC45NDRINTM3LjA4OGEzNS40NzIgMzUuNDcyIDAgMCAwIDAgNzAuOTQ0eiIvPjwvc3ZnPg==;" value="" vertex="1">
           <mxGeometry height="25.24" width="23" x="343" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="fBX8MCR7s2kqRqFNE24m-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="$$D$$" vertex="1">
-          <mxGeometry height="30" width="60" x="488.6" y="1258.95" as="geometry" />
-        </mxCell>
-        <mxCell id="fBX8MCR7s2kqRqFNE24m-43" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="$$A$$" vertex="1">
-          <mxGeometry height="30" width="60" x="314.5" y="1258.95" as="geometry" />
-        </mxCell>
         <mxCell id="fBX8MCR7s2kqRqFNE24m-47" edge="1" parent="1" source="fBX8MCR7s2kqRqFNE24m-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110.5" y="1344" as="sourcePoint" />
