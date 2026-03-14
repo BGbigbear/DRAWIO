@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram id="LPEW9qtVF2BqLg_XnrWT" name="Page-1">
-    <mxGraphModel dx="475" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=light-dark(#f7c9a7, #ededed);strokeColor=light-dark(#A16A3F,#EDEDED);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在线代码生成&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 与验证服务层&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="590" x="20" y="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=light-dark(#c1dbae, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;离线自进化训练层" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=light-dark(#c1dbae, #ededed);strokeColor=#2F4B13;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;离线自进化训练层" vertex="1">
           <mxGeometry height="108" width="590" x="20" y="230" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=light-dark(#d2d0d1, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;资源，接口&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;与执行底座层&lt;/div&gt;" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-122" connectable="0" parent="1" style="group;fillColor=light-dark(#ddedd4, #ededed);" value="" vertex="1">
           <mxGeometry height="45" width="120" x="330" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-24" parent="Xj1kZeEjIM0Ee42-_Djj-122" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; BRACE&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;对齐训练引擎&lt;/div&gt;" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-24" parent="Xj1kZeEjIM0Ee42-_Djj-122" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);strokeColor=#2F4B13;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; BRACE&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;对齐训练引擎&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="120" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-93" parent="Xj1kZeEjIM0Ee42-_Djj-122" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" value="" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-124" connectable="0" parent="1" style="group;fillColor=light-dark(#ddedd4, #ededed);" value="" vertex="1">
           <mxGeometry height="45" width="122" x="478" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-19" parent="Xj1kZeEjIM0Ee42-_Djj-124" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;数据与实验&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;管理模块&lt;/div&gt;" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-19" parent="Xj1kZeEjIM0Ee42-_Djj-124" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);strokeColor=#2F4B13;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;数据与实验&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;管理模块&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="122" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-123" parent="Xj1kZeEjIM0Ee42-_Djj-124" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=light-dark(#ddedd4, #ededed);" value="" vertex="1">
@@ -118,7 +118,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-125" connectable="0" parent="1" style="group;fillColor=light-dark(#c1dbae, #ededed);" value="" vertex="1">
           <mxGeometry height="37" width="442" x="158" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-118" parent="Xj1kZeEjIM0Ee42-_Djj-125" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 沙盒执行与动态校验环境" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-118" parent="Xj1kZeEjIM0Ee42-_Djj-125" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);strokeColor=#2F4B13;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 沙盒执行与动态校验环境" vertex="1">
           <mxGeometry height="37" width="442" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-101" parent="Xj1kZeEjIM0Ee42-_Djj-125" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/terminal-window-1416.svg" value="" vertex="1">
@@ -219,7 +219,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-156" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="45" width="140" x="158" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-23" parent="Xj1kZeEjIM0Ee42-_Djj-156" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);strokeColor=light-dark(#2f4b13, #ededed);container=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Ada-Evol&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 数据自进化引擎&lt;/div&gt;" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-23" parent="Xj1kZeEjIM0Ee42-_Djj-156" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ddedd4, #ededed);strokeColor=light-dark(#2F4B13,#EDEDED);container=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Ada-Evol&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 数据自进化引擎&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="140" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-97" parent="Xj1kZeEjIM0Ee42-_Djj-156" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#000000;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.gear;container=0;" value="" vertex="1">
