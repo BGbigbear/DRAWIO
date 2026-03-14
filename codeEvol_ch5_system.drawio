@@ -16,9 +16,6 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1;fillColor=light-dark(#d2d0d1, #ededed);" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;资源，接口&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;与执行底座层&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="590" x="20" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fae3d2, #ededed);strokeColor=#A16A3F;" value="结果组织与&lt;div&gt;自然语言总结&lt;/div&gt;" vertex="1">
-          <mxGeometry height="45" width="98" x="502" y="148" as="geometry" />
-        </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-38" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="170" x="158" y="60" as="geometry" />
         </mxCell>
@@ -128,7 +125,7 @@
           <mxGeometry height="27.75" width="162" x="281" y="3.925" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-130" connectable="0" parent="1" style="group;fillColor=light-dark(#fae3d2, #ededed);" value="" vertex="1">
-          <mxGeometry height="45" width="80" x="285" y="147.5" as="geometry" />
+          <mxGeometry height="45" width="80" x="281" y="148" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-15" parent="Xj1kZeEjIM0Ee42-_Djj-130" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fae3d2, #ededed);strokeColor=#A16A3F;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 代码生&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;成&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 服务&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="80" as="geometry" />
@@ -137,7 +134,7 @@
           <mxGeometry height="30" width="30" y="8" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-131" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="45" width="120" x="374" y="148" as="geometry" />
+          <mxGeometry height="45" width="120" x="368" y="148" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-110" parent="Xj1kZeEjIM0Ee42-_Djj-131" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fae3d2, #ededed);strokeColor=#A16A3F;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 错误反馈驱动&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 的代码修复&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="109" x="4" as="geometry" />
@@ -227,6 +224,15 @@
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;flipH=1;legacyAnchorPoints=0;flipV=0;direction=south;rotation=-180;" value="离线演化 - 在线服务 - 反馈回流" vertex="1">
           <mxGeometry height="218" width="30" x="660" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-160" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="108" x="492" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-16" parent="Xj1kZeEjIM0Ee42-_Djj-160" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fae3d2, #ededed);strokeColor=#A16A3F;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;结果组织与&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;自然语言总结&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-159" parent="Xj1kZeEjIM0Ee42-_Djj-160" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;aspect=fixed;size=10;fillColor=light-dark(#fae3d2, #ededed);" value="" vertex="1">
+          <mxGeometry height="25" width="20" x="9.5" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
