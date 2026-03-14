@@ -73,7 +73,7 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-99" parent="Xj1kZeEjIM0Ee42-_Djj-108" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=light-dark(#e7e7e7, #ededed);" value="" vertex="1">
           <mxGeometry height="29.099999999999998" width="24" x="14" y="5.4500000000000455" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-138" parent="Xj1kZeEjIM0Ee42-_Djj-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="DB 连接器" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-138" parent="Xj1kZeEjIM0Ee42-_Djj-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="[DB 连接器]" vertex="1">
           <mxGeometry height="30" width="60" x="110" y="34.55000000000001" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-109" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -160,11 +160,11 @@
             <mxPoint x="233" y="233.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="工具API / MCP 接口" vertex="1">
-          <mxGeometry height="30" width="100" x="364" y="405" as="geometry" />
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="[工具API / MCP 接口]" vertex="1">
+          <mxGeometry height="30" width="100" x="361" y="405" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="模型服务接口" vertex="1">
-          <mxGeometry height="30" width="100" x="519" y="405" as="geometry" />
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="[模型服务接口]" vertex="1">
+          <mxGeometry height="30" width="100" x="516" y="405" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-141" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endWidth=10;endSize=3.6083333333333334;startWidth=10;width=8;startSize=3;fillColor=light-dark(#858585, #ededed);sourcePerimeterSpacing=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
