@@ -225,6 +225,9 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-97" parent="Xj1kZeEjIM0Ee42-_Djj-156" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#000000;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.gear;container=0;" value="" vertex="1">
           <mxGeometry height="32" width="32" x="11" y="6.5" as="geometry" />
         </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;flipH=1;legacyAnchorPoints=0;flipV=0;direction=south;rotation=-180;" value="离线演化 - 在线服务 - 反馈回流" vertex="1">
+          <mxGeometry height="218" width="30" x="660" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
