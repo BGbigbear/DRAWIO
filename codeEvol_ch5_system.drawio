@@ -7,29 +7,26 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="用户交互与服务入口层" vertex="1">
           <mxGeometry height="60" width="590" x="20" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="在线代码生成与验证服务层" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 在线代码生成&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 与验证服务层&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="590" x="20" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="离线自进化训练层" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;离线自进化训练层" vertex="1">
           <mxGeometry height="60" width="590" x="20" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="资源与执行底座层" vertex="1">
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;资源与执行底座层" vertex="1">
           <mxGeometry height="60" width="590" x="20" y="330" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;lt;/&amp;gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;代码生成服务" vertex="1">
-          <mxGeometry height="40" width="120" x="359" y="150" as="geometry" />
+          <mxGeometry height="40" width="120" x="341" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结果组织与自然语言总结" vertex="1">
-          <mxGeometry height="40" width="134" x="500" y="150" as="geometry" />
+          <mxGeometry height="40" width="138" x="482" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;数据与实验管理模块" vertex="1">
-          <mxGeometry height="40" width="160" x="300" y="545" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;模型资源池" vertex="1">
-          <mxGeometry height="40" width="110" x="430" y="690" as="geometry" />
+          <mxGeometry height="40" width="160" x="550" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-38" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="170" x="176" y="60" as="geometry" />
+          <mxGeometry height="60" width="170" x="158" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-8" parent="Xj1kZeEjIM0Ee42-_Djj-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Web交互前台&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="130" as="geometry" />
@@ -38,7 +35,7 @@
           <mxGeometry height="23.99" width="27" x="10" y="8" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-39" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="130" x="316" y="60" as="geometry" />
+          <mxGeometry height="40" width="130" x="298" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-12" parent="Xj1kZeEjIM0Ee42-_Djj-39" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 会话管理" vertex="1">
           <mxGeometry height="40" width="110" as="geometry" />
@@ -59,7 +56,7 @@
           <mxGeometry height="8.602941176470587" width="8.602941176470587" x="1.4338235294117645" y="1.4338235294117645" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-42" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="160" x="436" y="60" as="geometry" />
+          <mxGeometry height="40" width="160" x="418" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-40" parent="Xj1kZeEjIM0Ee42-_Djj-42" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;结果展示与反馈入口" vertex="1">
           <mxGeometry height="40" width="160" as="geometry" />
@@ -68,7 +65,7 @@
           <mxGeometry height="24.41" width="28" x="10" y="7.790000000000077" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-44" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="176" y="150" as="geometry" />
+          <mxGeometry height="40" width="170" x="158" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-14" parent="Xj1kZeEjIM0Ee42-_Djj-44" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;请求解析与上下文装配" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
@@ -77,7 +74,7 @@
           <mxGeometry height="25.23" width="22" x="8" y="7.3799999999999955" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-91" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="650" y="150" as="geometry" />
+          <mxGeometry height="40" width="120" x="632" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-17" parent="Xj1kZeEjIM0Ee42-_Djj-91" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 反馈采集模块" vertex="1">
           <mxGeometry height="40" width="120" as="geometry" />
@@ -92,7 +89,7 @@
           <mxGeometry height="5.601749999999998" width="4.199999999999999" x="9.450000000000005" y="7.70174999999998" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-94" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="414" y="440" as="geometry" />
+          <mxGeometry height="40" width="170" x="365" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-24" parent="Xj1kZeEjIM0Ee42-_Djj-94" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;BRACE对齐训练引擎" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
@@ -101,7 +98,7 @@
           <mxGeometry height="31" width="31" x="6" y="4.5" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-98" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="190" x="176" y="470" as="geometry" />
+          <mxGeometry height="40" width="190" x="158" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-23" parent="Xj1kZeEjIM0Ee42-_Djj-98" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Ada-Evol数据自进化引擎" vertex="1">
           <mxGeometry height="40" width="190" as="geometry" />
@@ -109,23 +106,8 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-97" parent="Xj1kZeEjIM0Ee42-_Djj-98" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#000000;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.gear" value="" vertex="1">
           <mxGeometry height="32" width="32" x="11" y="4" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-99" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="310" y="550.45" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-100" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="60" y="597" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-102" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="590" y="620" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-20" parent="Xj1kZeEjIM0Ee42-_Djj-102" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;多源数据库与数据字典" vertex="1">
-          <mxGeometry height="40" width="170" as="geometry" />
-        </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-101" parent="Xj1kZeEjIM0Ee42-_Djj-102" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/terminal-window-1416.svg" value="" vertex="1">
-          <mxGeometry height="36" width="36" x="6" y="3" as="geometry" />
-        </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-106" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="150" y="680" as="geometry" />
+          <mxGeometry height="40" width="120" x="348" y="340" as="geometry" />
         </mxCell>
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-21" parent="Xj1kZeEjIM0Ee42-_Djj-106" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;工具资源池" vertex="1">
           <mxGeometry height="40" width="120" as="geometry" />
@@ -133,8 +115,29 @@
         <mxCell id="Xj1kZeEjIM0Ee42-_Djj-92" parent="Xj1kZeEjIM0Ee42-_Djj-106" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1A1A1A;shape=mxgraph.mscae.enterprise.tool;" value="" vertex="1">
           <mxGeometry height="27" width="30" x="10" y="6.5" as="geometry" />
         </mxCell>
-        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-107" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
-          <mxGeometry height="29.099999999999998" width="24" x="438" y="695.45" as="geometry" />
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-101" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/terminal-window-1416.svg" value="" vertex="1">
+          <mxGeometry height="36" width="36" x="292" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-108" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="170" x="158" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-20" parent="Xj1kZeEjIM0Ee42-_Djj-108" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;多源数据库与数据字典" vertex="1">
+          <mxGeometry height="40" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-99" parent="Xj1kZeEjIM0Ee42-_Djj-108" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#1A1A1A;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
+          <mxGeometry height="29.099999999999998" width="24" x="14" y="5.4500000000000455" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-109" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="110" x="490" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-22" parent="Xj1kZeEjIM0Ee42-_Djj-109" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;模型资源池" vertex="1">
+          <mxGeometry height="40" width="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-100" parent="Xj1kZeEjIM0Ee42-_Djj-109" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="6" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="Xj1kZeEjIM0Ee42-_Djj-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="错误反馈驱动的代码修复" vertex="1">
+          <mxGeometry height="40" width="120" x="140" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
