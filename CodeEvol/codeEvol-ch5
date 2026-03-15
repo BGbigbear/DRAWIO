@@ -701,7 +701,7 @@
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-43" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnCAPlHGI4XCSmrTgCmz-38" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="读取训练配置与初始模型" vertex="1">
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-38" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F1F1F1;" value="读取训练配置与初始模型" vertex="1">
           <mxGeometry height="24" width="180" x="260" y="81" as="geometry" />
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="训练初始化" vertex="1">
@@ -757,7 +757,7 @@
             <mxPoint x="140" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnCAPlHGI4XCSmrTgCmz-52" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否进入下一轮世代" vertex="1">
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-52" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F1F1F1,#EDEDED);" value="是否进入下一轮世代" vertex="1">
           <mxGeometry height="40" width="170" x="265" y="354" as="geometry" />
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="候选输出" vertex="1">
@@ -783,7 +783,7 @@
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-78" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnCAPlHGI4XCSmrTgCmz-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="裁判预热数据 /&amp;nbsp;&lt;div&gt;历史标注样本&lt;/div&gt;" vertex="1">
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F1F1F1;" value="裁判预热数据 /&amp;nbsp;&lt;div&gt;历史标注样本&lt;/div&gt;" vertex="1">
           <mxGeometry height="34" width="140" x="100" y="115" as="geometry" />
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="下一轮世代" vertex="1">
