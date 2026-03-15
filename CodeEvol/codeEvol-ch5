@@ -731,10 +731,16 @@
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-57" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-76" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="裁判模型更新" vertex="1">
           <mxGeometry height="24" width="160" x="270" y="244" as="geometry" />
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-59" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-77" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="受界奖励成型与策略更新" vertex="1">
@@ -748,6 +754,14 @@
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-62" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-61">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-66" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="380" />
+              <mxPoint x="230" y="173" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-52" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否进入下一轮世代" vertex="1">
           <mxGeometry height="40" width="170" x="265" y="360" as="geometry" />
@@ -769,6 +783,33 @@
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="轮次状态" vertex="1">
           <mxGeometry height="30" width="60" x="362" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="裁判预热数据 /&amp;nbsp;&lt;div&gt;历史标注样本&lt;/div&gt;" vertex="1">
+          <mxGeometry height="34" width="140" x="100" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="下一轮世代" vertex="1">
+          <mxGeometry height="30" width="70" x="160" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-73" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="66" x="508" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-69" parent="cnCAPlHGI4XCSmrTgCmz-73" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-70" parent="cnCAPlHGI4XCSmrTgCmz-73" style="rounded=0;whiteSpace=wrap;html=1;" value="裁判模型" vertex="1">
+          <mxGeometry height="24" width="60" x="3" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-74" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="66" x="508" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-71" parent="cnCAPlHGI4XCSmrTgCmz-74" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-72" parent="cnCAPlHGI4XCSmrTgCmz-74" style="rounded=0;whiteSpace=wrap;html=1;" value="策略模型" vertex="1">
+          <mxGeometry height="24" width="60" x="3" y="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
