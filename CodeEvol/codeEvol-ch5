@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="6">
   <diagram id="NB0gAnkdil4OXKJ9y_uw" name="usecase">
     <mxGraphModel dx="1213" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -683,6 +683,165 @@
         </mxCell>
         <mxCell id="WnVsM9vqZZPGRgIrt14R-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="丢弃 / 记录失败率" vertex="1">
           <mxGeometry height="30" width="100" x="199" y="372" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wo0-JRO2AT2OU0luxXST" name="p_train">
+    <mxGraphModel dx="1092" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是&amp;nbsp; &amp;nbsp;高质量样本" vertex="1">
+          <mxGeometry height="30" width="110" x="412" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-2" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="读取分层空间与校准配置" vertex="1">
+          <mxGeometry height="30" width="180" x="260" y="457" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-4" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="开始" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-6" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="初始化单元状态与历史统计" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-8" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;" value="执行预算调度与单元选择" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-10" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="条件样本合成" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="目标单元 / 当前预算" vertex="1">
+          <mxGeometry height="30" width="130" x="344" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-13" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行验证与样本精炼" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-15" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新单元收益与状态统计" vertex="1">
+          <mxGeometry height="30" width="160" x="270" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-17" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-18" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="720" />
+              <mxPoint x="210" y="748" />
+            </Array>
+            <mxPoint x="272.5" y="716" as="sourcePoint" />
+            <mxPoint x="350" y="748" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="样本是否通过精炼" vertex="1">
+          <mxGeometry height="40" width="155" x="272.5" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-20" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否进入下一轮调度" vertex="1">
+          <mxGeometry height="40" width="155" x="272.5" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-22" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-23" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;" value="训练数据池" vertex="1">
+          <mxGeometry height="50" width="70" x="517" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-24" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="580" />
+              <mxPoint x="240" y="530" />
+            </Array>
+            <mxPoint x="270" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-25" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;" value="历史统计与&lt;div&gt;先验配置&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="100" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-26" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-27" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="冻结校准反馈" vertex="1">
+          <mxGeometry height="30" width="130" x="70" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="单元反馈" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调度依据" vertex="1">
+          <mxGeometry height="30" width="60" x="172" y="556" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-30" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="cnCAPlHGI4XCSmrTgCmz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="状态更新 / 下一轮调度&amp;nbsp; &amp;nbsp;是" vertex="1">
+          <mxGeometry height="30" width="160" x="128" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="结束" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="837" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-34" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cnCAPlHGI4XCSmrTgCmz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="239" y="696" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="丢弃 / 记录失败率" vertex="1">
+          <mxGeometry height="30" width="100" x="209" y="722" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-41" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="开始" vertex="1">
+          <mxGeometry height="24" width="60" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-43" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-38" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="读取训练配置与初始模型" vertex="1">
+          <mxGeometry height="24" width="180" x="260" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="训练初始化" vertex="1">
+          <mxGeometry height="30" width="80" x="350" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-47" edge="1" parent="1" source="cnCAPlHGI4XCSmrTgCmz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cnCAPlHGI4XCSmrTgCmz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="裁判预热数据准备" vertex="1">
+          <mxGeometry height="24" width="160" x="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-46" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="166" x="267" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-44" parent="cnCAPlHGI4XCSmrTgCmz-46" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="166" as="geometry" />
+        </mxCell>
+        <mxCell id="cnCAPlHGI4XCSmrTgCmz-45" parent="cnCAPlHGI4XCSmrTgCmz-46" style="rounded=0;whiteSpace=wrap;html=1;" value="候选生成与组内 Rollout" vertex="1">
+          <mxGeometry height="24" width="160" x="3" y="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
