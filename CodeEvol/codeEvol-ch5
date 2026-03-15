@@ -1073,6 +1073,19 @@
         <mxCell id="nzSfqhtMRtatn_vaGz7R-31" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-46" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="545" />
+              <mxPoint x="90" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-47" connectable="0" parent="nzSfqhtMRtatn_vaGz7R-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="继续提问 / 多轮交互" vertex="1">
+          <mxGeometry relative="1" x="0.0341" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nzSfqhtMRtatn_vaGz7R-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" value="交互日志与结果记录" vertex="1">
           <mxGeometry height="50" width="120" x="230" y="520" as="geometry" />
         </mxCell>
