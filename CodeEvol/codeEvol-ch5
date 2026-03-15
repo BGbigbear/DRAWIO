@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="7">
   <diagram id="NB0gAnkdil4OXKJ9y_uw" name="usecase">
     <mxGraphModel dx="1213" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -549,7 +549,7 @@
         <mxCell id="ZjrjXA87hGkDsz1GnZgw-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="在线服务能力" vertex="1">
           <mxGeometry height="30" width="90" x="511" y="173" as="geometry" />
         </mxCell>
-        <mxCell id="ZjrjXA87hGkDsz1GnZgw-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="离线训练测" vertex="1">
+        <mxCell id="ZjrjXA87hGkDsz1GnZgw-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="离线训练侧" vertex="1">
           <mxGeometry height="30" width="120" x="554" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZjrjXA87hGkDsz1GnZgw-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="在线服务侧" vertex="1">
@@ -800,6 +800,47 @@
         </mxCell>
         <mxCell id="cnCAPlHGI4XCSmrTgCmz-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="裁判模型" vertex="1">
           <mxGeometry height="24" width="60" x="481" y="238" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3WCgJ5RlWY48VKd-EMe7" name="p_sandbox">
+    <mxGraphModel dx="1092" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="离线训练&lt;div&gt;任务输入&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="在线服务&lt;div&gt;请求输入&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="30" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="接受待执行代码&lt;div&gt;与上下文&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7e9e6, #ededed);strokeWidth=2;" value="受约束执行&lt;div&gt;环境检查&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行代码并&lt;div&gt;收集运行状态&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="执行是否成功" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成验证结果&lt;div&gt;与状态说明&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="异常拦截与&lt;div&gt;错误反馈&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="训练侧标签&lt;div&gt;/ 奖励输出&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="590" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="服务侧结果&lt;div&gt;反馈输出&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="590" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="I5iIk8EL-e8qFsgQMgNL-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="训练侧失败&lt;div&gt;样本记录&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="600" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
