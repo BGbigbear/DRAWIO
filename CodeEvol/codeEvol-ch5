@@ -994,6 +994,81 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-14" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=43;" value="开始" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-15" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="用户自然语言请求输入" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-16" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取会话上下文与历史记录" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-17" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="请求解析与任务识别" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-18" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="装配数据源、模型&lt;div&gt;与工具上下文&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="160" x="210" y="238" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-24" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="生成代码候选" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-27" edge="1" parent="1" source="nzSfqhtMRtatn_vaGz7R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nzSfqhtMRtatn_vaGz7R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="执行验证与状态获取" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="结果是否可返回" vertex="1">
+          <mxGeometry height="30" width="160" x="210" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结果组织与自然语言总结" vertex="1">
+          <mxGeometry height="30" width="160" x="254" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="结果展示与用户反馈" vertex="1">
+          <mxGeometry height="30" width="160" x="250" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回错误信息与修正提示" vertex="1">
+          <mxGeometry height="30" width="160" x="510" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" value="交互日志与结果记录" vertex="1">
+          <mxGeometry height="50" width="120" x="300" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=43;" value="结束" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="当前请求" vertex="1">
+          <mxGeometry height="30" width="60" x="297" y="169" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="任务类型 /所需资源" vertex="1">
+          <mxGeometry height="30" width="110" x="300" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="组装上下文" vertex="1">
+          <mxGeometry height="30" width="80" x="292" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="候选代码" vertex="1">
+          <mxGeometry height="30" width="60" x="296" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="nzSfqhtMRtatn_vaGz7R-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="执行状态" vertex="1">
+          <mxGeometry height="30" width="56" x="299" y="363" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
