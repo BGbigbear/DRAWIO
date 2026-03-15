@@ -966,13 +966,13 @@
           <mxGeometry height="30" width="70" x="173" y="196" as="geometry" />
         </mxCell>
         <mxCell id="2i9Ta-QV-uzID_w5zUKE-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="输入源区" vertex="1">
-          <mxGeometry height="30" width="60" x="90" y="50" as="geometry" />
+          <mxGeometry height="30" width="60" x="90" y="63" as="geometry" />
         </mxCell>
         <mxCell id="2i9Ta-QV-uzID_w5zUKE-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="统一验证核心区" vertex="1">
-          <mxGeometry height="30" width="90" x="265" y="50" as="geometry" />
+          <mxGeometry height="30" width="90" x="265" y="63" as="geometry" />
         </mxCell>
         <mxCell id="2i9Ta-QV-uzID_w5zUKE-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="双状态输出区" vertex="1">
-          <mxGeometry height="30" width="100" x="484.5" y="50" as="geometry" />
+          <mxGeometry height="30" width="100" x="484.5" y="63" as="geometry" />
         </mxCell>
         <mxCell id="2i9Ta-QV-uzID_w5zUKE-39" edge="1" parent="1" source="I5iIk8EL-e8qFsgQMgNL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.222;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" target="2i9Ta-QV-uzID_w5zUKE-2">
           <mxGeometry relative="1" as="geometry" />
