@@ -517,6 +517,30 @@
         <mxCell id="aGpVxSsoD9a9Dg5M9C9R-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontColor=light-dark(#676767, #ededed);" value="IPS" vertex="1">
           <mxGeometry height="30" width="60" x="452" y="619" as="geometry" />
         </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=light-dark(#878787, #ededed);" value="" vertex="1">
+          <mxGeometry height="210" width="154" x="580" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;区域 \(a_1\)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="584" y="506.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;区域 \(a_2\)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="584" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;区域 \(a_3\)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="584" y="593" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;区域 \(a_4\)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="584" y="636" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=light-dark(#1e385d, #ededed);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="588" y="500" as="sourcePoint" />
+            <mxPoint x="728" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="投向高收益保守估计区" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
