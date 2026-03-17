@@ -646,6 +646,12 @@
         <mxCell id="tmIZHRne9vz_4DrlMtYj-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;b&gt;集中利用&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="522" y="516" as="geometry" />
         </mxCell>
+        <mxCell id="tmIZHRne9vz_4DrlMtYj-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="环境验证反馈 / 时间步更新 \((t \to t+1)\)" vertex="1">
+          <mxGeometry height="30" width="310" x="290" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="tmIZHRne9vz_4DrlMtYj-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="收益漂移、曝光更新、状态重估" vertex="1">
+          <mxGeometry height="30" width="210" x="320" y="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
