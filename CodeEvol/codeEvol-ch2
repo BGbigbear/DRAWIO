@@ -457,7 +457,7 @@
         <mxCell id="DiX3_7z7j5AQoQJJoGeJ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ececec, #ededed);" value="区域 /(a_1/)" vertex="1">
           <mxGeometry height="60" width="200" x="80" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="DiX3_7z7j5AQoQJJoGeJ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/(a_1/)" vertex="1">
+        <mxCell id="DiX3_7z7j5AQoQJJoGeJ-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="/( /)" vertex="1">
           <mxGeometry height="30" width="60" x="330" y="570" as="geometry" />
         </mxCell>
       </root>
