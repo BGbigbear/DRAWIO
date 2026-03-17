@@ -499,11 +499,23 @@
         <mxCell id="aGpVxSsoD9a9Dg5M9C9R-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;fontColor=light-dark(#858382, #ededed);" value="长尾区域" vertex="1">
           <mxGeometry height="60" width="20" x="61" y="692" as="geometry" />
         </mxCell>
-        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);fontSize=16;" value="探索—利用权衡&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" vertex="1">
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);fontSize=16;" value="探索—利用权衡" vertex="1">
           <mxGeometry height="44" width="176" x="326" y="501" as="geometry" />
         </mxCell>
-        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#6b6b6b, #ededed);fontSize=12;" value="UCB&lt;br&gt;LCB" vertex="1">
-          <mxGeometry height="30" width="60" x="445" y="508" as="geometry" />
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);fontSize=16;" value="置信下界保守估计&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="44" width="176" x="326" y="556.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);fontSize=16;" value="非平稳折扣更新" vertex="1">
+          <mxGeometry height="44" width="176" x="326" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);fontSize=16;" value="曝光偏差修正&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="44" width="176" x="326" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontColor=light-dark(#676767, #ededed);" value="LCB" vertex="1">
+          <mxGeometry height="30" width="60" x="453" y="563.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aGpVxSsoD9a9Dg5M9C9R-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontColor=light-dark(#676767, #ededed);" value="IPS" vertex="1">
+          <mxGeometry height="30" width="60" x="452" y="619" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
