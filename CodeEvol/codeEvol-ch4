@@ -262,7 +262,7 @@
         <mxCell id="izSIkOFuYdld-1H2XGYO-15" edge="1" parent="1" source="izSIkOFuYdld-1H2XGYO-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#6f8199, #ededed);strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;curved=0;" target="izSIkOFuYdld-1H2XGYO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="izSIkOFuYdld-1H2XGYO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=light-dark(#b3c5d4, #ededed);strokeColor=none;fontStyle=1;" value="受约束执行环境&lt;br&gt;&lt;div&gt;\(\hat{E}(x,s,y)\)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; font-weight: 400;&quot;&gt;Execute | Verify | Log&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="izSIkOFuYdld-1H2XGYO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=light-dark(#b3c5d4, #ededed);strokeColor=none;fontStyle=1;" value="环境观测与&lt;div&gt;错误层级&lt;br&gt;&lt;div&gt;\(o \to z(y)\)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;执行状态 | 错误层级&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="136" width="136" x="359" y="580" as="geometry" />
         </mxCell>
         <mxCell id="izSIkOFuYdld-1H2XGYO-16" edge="1" parent="1" source="izSIkOFuYdld-1H2XGYO-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#a2b6cb, #ededed);strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;curved=0;" target="izSIkOFuYdld-1H2XGYO-7">
@@ -282,6 +282,12 @@
         </mxCell>
         <mxCell id="izSIkOFuYdld-1H2XGYO-11" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;size=10;position=0.23;rounded=1;base=20;position2=0.32;fillColor=light-dark(#f0f0ef, #ededed);align=left;strokeColor=light-dark(#d0d5d9, #ededed);" value="&amp;nbsp;Examples&lt;div&gt;&amp;nbsp;1. 完全正确&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. 可执行但错&lt;/div&gt;&lt;div&gt;&amp;nbsp;3. 严重失败&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="93" x="380" y="499" as="geometry" />
+        </mxCell>
+        <mxCell id="izSIkOFuYdld-1H2XGYO-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=default;" value="执行轨迹与报错日志 (Trace / Logs)" vertex="1">
+          <mxGeometry height="30" width="213" x="297" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="izSIkOFuYdld-1H2XGYO-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=default;labelBackgroundColor=default;" value="连续价值估计 \(v\)" vertex="1">
+          <mxGeometry height="30" width="115" x="665" y="758" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
